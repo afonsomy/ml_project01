@@ -1,0 +1,21 @@
+# ML Project Configuration
+project_name: ml_workspace
+
+# Data paths
+data:
+  raw: data/raw
+  processed: data/processed
+  external: data/external
+
+# Model settings
+model:
+  save_path: models/saved
+  checkpoint_path: models/checkpoints
+
+# Training parameters
+training:
+  batch_size: 32
+  epochs: 100
+  learning_rate: 0.001
+  validation_split: 0.2
+  random_seed: 42

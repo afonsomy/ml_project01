@@ -1,0 +1,48 @@
+# ==============================================
+# Python ML/AI Requirements
+# ==============================================
+
+# --- Core Scientific Computing ---
+numpy
+pandas
+scipy
+
+# --- Data Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- Machine Learning ---
+scikit-learn
+xgboost
+lightgbm
+
+# --- Deep Learning (choose one or both) ---
+tensorflow
+# torch  # Uncomment for PyTorch (install separately: pip install torch)
+
+# --- Natural Language Processing ---
+nltk
+# transformers  # Uncomment for Hugging Face Transformers
+
+# --- Computer Vision ---
+opencv-python
+pillow
+
+# --- Jupyter Notebooks ---
+jupyter
+jupyterlab
+ipykernel
+
+# --- Data Loading and Processing ---
+openpyxl
+xlrd
+python-dotenv
+
+# --- Model Tracking and Experiments ---
+mlflow
+
+# --- Utilities ---
+tqdm
+requests
+pyyaml
